@@ -12,6 +12,9 @@
     <li><a href="marking-up-a-letter/index.html">Marking up a letter</a></li>
     <li><a href="structuring-a-page-of-content/index.html">Structuring a page of content</a></li>
  </ul>
+ <p>
+  Aprendi sobre as tags, a anatomia do documento html, os dados do "head" como o titulo, o favicon, e um pouco sobre os metadados. Na parte do "body" eu aprendi a importância da semântica, o uso de títulos e páragrafos, listas, uso do &lt;strong&gt; e &lt;em&gt;. Aprendi a criar um hyperlink, aprendi outras formatações de texto e aprendi a estruturar o site com o uso de tags como &lt;header&gt; &lt;main&gt; &lt;footer&gt; entre outras. A parte de estruturar a página com o uso de tags foi muito interessante.
+ </p>
  
 <h3>Multimídia e Incorporação</h3>
  <ul>
