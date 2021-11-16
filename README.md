@@ -1,6 +1,6 @@
 # mozilla-mdn-exercicios
 
-<a href="https://matheusoliveiraul.github.io/mozilla-mdn-exercicios/" target="_blank">Exercicios do Mozilla MDN Web Docs</a>
+<a href="https://matheusoliveiraul.github.io/mozilla-mdn-exercicios/">Exercicios do Mozilla MDN Web Docs</a>
 
  <h1>Exercicios</h1>
  
@@ -9,8 +9,8 @@
  <h3>Introdução ao HTML</h3>
  <p>Concluido em <time datetime="2021-11-16">16 de novembro de 2021</time></p>
  <ul>
-    <li><a href="marking-up-a-letter/index.html" target="_blank">Marking up a letter</a></li>
-    <li><a href="structuring-a-page-of-content/index.html" target="_blank">Structuring a page of content</a></li>
+    <li><a href="marking-up-a-letter/index.html">Marking up a letter</a></li>
+    <li><a href="structuring-a-page-of-content/index.html">Structuring a page of content</a></li>
  </ul>
  
 <h3>Multimídia e Incorporação</h3>
