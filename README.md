@@ -29,9 +29,13 @@
  <h2>CSS - Estilizando a Web</h2>
  
  <h3>CSS - Primeiros passos</h3>
+ <p>Concluido em <time datetime="2021-12-04">04 de Dezembro de 2021</time></p>
  <ul>
-    <li></li>
+    <li><a href="using-your-new-knowledge/index.html">Using your new Knowledge</a></li>
  </ul>
+  <p>
+  Nesse módulo eu aprendi sobre os primeiros passos do CSS de como ele funciona, como implementar ou linkar o arquivo em um arquivo html, usando as técnicas "externas", "internas" ou em linha.
+ </p>
  
  <h3>CSS building blocks</h3>
  <ul>
